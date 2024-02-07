@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aokwakau
-- 👀 I’m interested in GIS/RS and Climate Science 
-- 🌱 I’m currently learning appdevelopment
-- 💞️ I’m looking to collaborate on some of my public projects
+- 👋 Hi, I’m OkwakauJr
+- 👀 
+- 🌱 
+- 💞️
 
 <!---
 aokwakau/aokwakau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
